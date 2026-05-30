@@ -108,9 +108,9 @@
 
 <h2 align="center">💰 Support Me 💰</h2>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Vietcombank_logo_fixed.svg" width="90"/>  
-  <strong>1018068508 (DKM)</strong>  
+  <img src="https://upload.wikimedia.org/Vietcombank_logo_fixed.svg" width="90"/>  
+  <strong>101868508 (DKM)</strong>  
   <br><br>
-  <img src="https://cdn.nhansu.vn/uploads/images/E1E9C3CD/logo/2023-05/logo.png" width="80"/>  
-  <strong>1013260302 (DKM)</strong>
+  <img src="https://cdn/images/E1E9C3CD/logo/2023-05/logo.png" width="80"/>  
+  <strong>101360302 (DKM)</strong>
 </p>
