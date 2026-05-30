@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sachin </h1>
 <h3 align="center">A passionate System Engineer from INDIA</h3>
 
-- 🌱 I graduated from **Vietnam National University HCMC - An Giang University**, majoring in Information Technology.  
+- 🌱 I am currently Pursuing B-Tech from "NIAMT-RANCHI", majoring in Computer Science and Technology.  
 - 👯 I’m actively looking to collaborate on open-source projects on GitHub.  
 - 🤔 I’m seeking support and mentorship to improve my coding skills and learn new technologies.  
-- 🚀 Skills: ASP.NET Core, C#, Entity Framework, SQL Server, JavaScript, HTML, CSS, Python, Git, AI.  
-- 💻 I'm currently working on an **ASP.NET Core MVC** project, building a full-featured web application using modern web development practices (C#, EF Core, SQL Server, API).  
-- 📫 How to reach me: [duongminh318@gmail.com](mailto:duongminh318@gmail.com)  
+- 🚀 Skills: HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, Python, AI, ML, Git.
+- 💻 I'm currently working on an **LangChain** project, building a full-featured web application using modern web development practices (C#, EF Core, SQL Server, API).  
+- 📫 How to reach me: [sachin3434z@gmail.com](mailto:sachin3434z@gmail.com)  
 - 🔔 **Feel free to follow me on GitHub to stay updated on my latest projects and contributions!**  
 
 ---
@@ -72,13 +72,13 @@
 
 <h2 align="center">👽 Where to find me 👽</h2>
 <div align="center">
-  <a href="https://facebook.com/DuongKhoiMinh99" target="_blank">
+  <a href="https://facebook.com" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://www.youtube.com/c/CFFM318" target="_blank">
+  <a href="https://www.youtube.com" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="YouTube"/>
   </a>
-  <a href="https://www.linkedin.com/in/duongminh318" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 </div>
